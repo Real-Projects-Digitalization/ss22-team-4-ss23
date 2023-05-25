@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are Team 41 </h1>
+<h1 align="center">Hi 👋, We are Team Social 4! </h1>
 
 # Social Connect
 ![image](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/assets/113977917/eb6e48cf-094f-4ff2-9b66-937af736d28c)
@@ -20,5 +20,15 @@ Social workers face a significant burden in finding emergency shelters for homel
 
 ## TEAM 👨‍💻
 
+| Name  | Surname | University  | Subject |
+| ----- | ------- | ----------- | ------- | 
+| Lenz | Julius | HM Munich | Business Informatics |
+| Killer | Marius | HM Munich | Business Informatics |
+| Becker | Marlon | HM Munich | Business Informatics |
+| Kupferschmidt | Lucas | HM Munich | Business Informatics |
+| Heinrich | Katharina | HM Munich | Business Administration |
+| N | Annalena| HM Munich | Business Administration |
+| P | Vu Michael P. | HM Munich | ka |
+| N | Hoang | HM Munich | ka |
 
 
