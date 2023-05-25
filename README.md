@@ -4,10 +4,10 @@
 ## We match homeless young people with the right social workers
 
 ## Documentation
-https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/wiki
+[Documentation](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/wiki)
 
 ## Our GitHub page
-https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23
+[GitHub page](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23)
 
 ## TEAM
 
