@@ -20,15 +20,15 @@ Social workers face a significant burden in finding emergency shelters for homel
 
 ## TEAM 👨‍💻
 
-| Name  | Surname | University  | Subject |
+| Surname  | Name | University  | Subject |
 | ----- | ------- | ----------- | ------- | 
 | Lenz | Julius | HM Munich | Business Informatics |
 | Killer | Marius | HM Munich | Business Informatics |
 | Becker | Marlon | HM Munich | Business Informatics |
 | Kupferschmidt | Lucas | HM Munich | Business Informatics |
 | Heinrich | Katharina | HM Munich | Business Administration |
-| N | Annalena| HM Munich | Business Administration |
-| P | Vu Michael P. | HM Munich | ka |
-| N | Hoang | HM Munich | ka |
+| Nebelmeir | Annalena| HM Munich | Business Administration |
+| Pham | Vu Michael | HM Munich | Business Informatics |
+| Nguyen | Hoang | HM Munich | Business Administration |
 
 
