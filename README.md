@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are Team Social 4! </h1>
 
 # Social Connect
-![image](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/assets/113977917/eb6e48cf-094f-4ff2-9b66-937af736d28c)
+![image](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/assets/113977917/3292d9b4-0f35-4076-a164-82810c8243b8)
 
 ## We match homeless young people with the right social workers 👯
 
