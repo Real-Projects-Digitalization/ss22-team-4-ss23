@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, We are Team Social 4! </h1>
+<h1 align="center">Hi 👋, We are Team SocialConnect! </h1>
 
 # Social Connect
 ![image](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/assets/113977917/3292d9b4-0f35-4076-a164-82810c8243b8)
 
-## We match homeless young people with the right social workers 👯
+## We support social workers in saving time with our solution and focusing on people in need.
 
 ## The problem
 Social workers face a significant burden in finding emergency shelters for homeless youth. Our project aims to alleviate the workload and facilitate the search process for social workers, providing them with a solution that streamlines and simplifies the task.
 
 ## The solution
-
-
+We provide a centralized program that lists all available social services in one convenient platform.
 
 ## Documentation 📝
 [Documentation](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/wiki)
