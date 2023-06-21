@@ -15,7 +15,7 @@ We provide a centralized program that lists all available social services in one
 [Documentation](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/wiki)
 
 ## GitHub page 📄
-[GitHub page](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23)
+[GitHub page](https://real-projects-digitalization.github.io/ss22-team-4-ss23/)
 
 ## TEAM 👨‍💻
 
