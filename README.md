@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are Team SocialConnect! </h1>
 
 # Social Connect
-![image](https://github.com/Real-Projects-Digitalization/ss22-team-4-ss23/assets/113977917/3292d9b4-0f35-4076-a164-82810c8243b8)
+<img src="./images/SocialConnect.png" alt="SocialConnect">
 
 ## We support social workers in saving time with our solution and focusing on people in need.
 
