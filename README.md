@@ -17,17 +17,3 @@ We provide a centralized program that lists all available social services in one
 ## GitHub page 📄
 [GitHub page](https://real-projects-digitalization.github.io/ss22-team-4-ss23/)
 
-## TEAM 👨‍💻
-
-| Surname  | Name | University  | Subject |
-| ----- | ------- | ----------- | ------- | 
-| Lenz | Julius | HM Munich | Business Informatics |
-| Killer | Marius | HM Munich | Business Informatics |
-| Becker | Marlon | HM Munich | Business Informatics |
-| Kupferschmidt | Lucas | HM Munich | Business Informatics |
-| Heinrich | Katharina | HM Munich | Business Administration |
-| Nebelmeir | Annalena| HM Munich | Business Administration |
-| Pham | Vu Michael | HM Munich | Business Informatics |
-| Nguyen | Hoang | HM Munich | Business Administration |
-
-
